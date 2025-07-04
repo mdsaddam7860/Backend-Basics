@@ -1,0 +1,19 @@
+{
+  "name": "backend_learning_and_basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0"
+  }
+}
