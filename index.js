@@ -45,11 +45,6 @@ const githubData = {
   updated_at: "2025-07-02T16:14:01Z",
 };
 
-// console.log(env.PORT);
-
-// require("dotenv").config();
-// console.log(process.env);
-
 app.get("/", (req, res) => {
   res.send("Hello World!");
 });

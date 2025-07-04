@@ -1,2 +1,23 @@
+# Shell files
+.bash_history
+.bash_profile
+*.swp
 node_modules
+node_modules/
 .env
+# Android
+*.img
+*.ini
+*.conf
+*.qcow2
+*.protobuf
+
+# Credentials
+.git-credentials
+
+# VS Code
+.vscode/
+
+# System files
+*.log
+.DS_Store
